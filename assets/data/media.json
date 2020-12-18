@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "media_file": "001.mov",
+    "export_options": "Download",
+    "created_on": "10/07/2020 13:00:00",
+    "finished_on": "10/07/2020 13:03:30",
+    "metadata": "Submitted via Sergey",
+    "credit_used": "10m 43s",
+    "status": "Complete"
+  },
+  {
+    "id": 2,
+    "media_file": "002.mov",
+    "export_options": "Download",
+    "created_on": "10/14/2020 13:00:00",
+    "finished_on": "10/14/2020 13:03:30",
+    "metadata": "Submitted via Igor",
+    "credit_used": "15m 43s",
+    "status": "Complete"
+  },
+  {
+    "id": 3,
+    "media_file": "003.mov",
+    "export_options": "Download",
+    "created_on": "10/14/2020 13:00:00",
+    "finished_on": "10/14/2020 13:03:30",
+    "metadata": "Submitted via Sergey",
+    "credit_used": "21m 43s",
+    "status": "Complete"
+  },
+  {
+    "id": 4,
+    "media_file": "004.mov",
+    "export_options": "Download",
+    "created_on": "10/14/2020 13:00:00",
+    "finished_on": "10/14/2020 13:03:30",
+    "metadata": "Submitted via Igor",
+    "credit_used": "17m 43s",
+    "status": "Complete"
+  },
+  {
+    "id": 5,
+    "media_file": "002.mov",
+    "export_options": "Download",
+    "created_on": "10/14/2020 13:00:00",
+    "finished_on": "10/14/2020 13:03:30",
+    "metadata": "Submitted via Igor",
+    "credit_used": "15m 43s",
+    "status": "Complete"
+  },
+  {
+    "id": 6,
+    "media_file": "003.mov",
+    "export_options": "Download",
+    "created_on": "10/14/2020 13:00:00",
+    "finished_on": "10/14/2020 13:03:30",
+    "metadata": "Submitted via Sergey",
+    "credit_used": "21m 43s",
+    "status": "Complete"
+  },
+  {
+    "id": 7,
+    "media_file": "004.mov",
+    "export_options": "Download",
+    "created_on": "10/14/2020 13:00:00",
+    "finished_on": "10/14/2020 13:03:30",
+    "metadata": "Submitted via Igor",
+    "credit_used": "17m 43s",
+    "status": "Complete"
+  }
+]
